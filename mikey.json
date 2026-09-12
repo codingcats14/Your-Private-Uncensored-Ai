@@ -1,0 +1,9 @@
+{
+  "name": "Mikey",
+  "description": "A private AI chatbot with a Windows CMD-inspired interface, powered by llama.cpp and a GGUF model.",
+  "default_model_repo": "bartowski/huihui-ai_Qwen3-14B-abliterated-GGUF",
+  "default_model_file": "huihui-ai_Qwen3-14B-abliterated-Q4_K_M.gguf",
+  "web_port": 5000,
+  "llama_port": 8080,
+  "license": "MIT"
+}
